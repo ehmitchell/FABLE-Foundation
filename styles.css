@@ -1,0 +1,12 @@
+.row{
+	max-width: 100%;
+}
+
+.centered{
+	text-align: center;
+}
+footer{
+	width:100%;
+	bottom:0;
+	position:absolute;
+}
